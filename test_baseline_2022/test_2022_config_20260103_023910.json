@@ -1,0 +1,21 @@
+{
+  "analysis_type": "baseline_transformer_multirun",
+  "analysis_timestamp": "20260103_023910",
+  "total_runs": 2,
+  "stages_tested": [
+    "pre_match",
+    "after_set_1",
+    "after_set_2",
+    "after_set_3",
+    "after_set_4"
+  ],
+  "training_method": "transformer_progressive_tennis_predictor",
+  "metrics_calculated": [
+    "mean",
+    "std",
+    "min",
+    "max",
+    "count",
+    "ci_95"
+  ]
+}

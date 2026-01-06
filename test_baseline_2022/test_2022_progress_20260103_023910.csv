@@ -1,0 +1,2 @@
+Year,after_set_1_accuracy,after_set_1_mean,after_set_2_accuracy,after_set_2_mean,after_set_3_accuracy,after_set_3_mean,after_set_4_accuracy,after_set_4_mean,pre-match_accuracy,pre-match_mean
+2022.0,84.8% ± 0.5%,0.8484555984555985,89.0% ± 1.6%,0.8895348837209303,97.0% ± 0.7%,0.970368062496602,90.9% ± 1.5%,0.9085755514326943,75.0% ± 0.5%,0.7495173745173745
